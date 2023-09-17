@@ -1,0 +1,41 @@
+---
+id: 30461781
+name: Legacy of Yata-Garasu
+type: Trap Card
+frameType: trap
+desc: |-
+  Activate 1 of these effects:
+  ● Draw 1 card.
+  ● Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards.
+race: Normal
+card_sets:
+- set_name: Dragunity Legion Structure Deck
+  set_code: SDDL-EN033
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.73'
+- set_name: Premium Pack (TCG)
+  set_code: PP01-EN009
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '1.49'
+- set_name: Premium Pack (TCG)
+  set_code: PP01-EN009
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '1.49'
+card_images:
+- id: 30461781
+  image_url: https://images.ygoprodeck.com/images/cards/30461781.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/30461781.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/30461781.jpg
+- id: 30461781
+  image_url: https://images.ygoprodeck.com/images/cards/30461781.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/30461781.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/30461781.jpg
+card_prices:
+- cardmarket_price: '0.25'
+  tcgplayer_price: '0.79'
+  ebay_price: '1.39'
+  amazon_price: '2.00'
+  coolstuffinc_price: '0.99'
